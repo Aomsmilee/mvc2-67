@@ -1,0 +1,167 @@
+{
+    "products": [
+        {
+            "id": "111111",
+            "type": "\u0e2d\u0e32\u0e2b\u0e32\u0e23",
+            "expiration_date": "2025-02-10"
+        },
+        {
+            "id": "111114",
+            "type": "\u0e2d\u0e32\u0e2b\u0e32\u0e23",
+            "expiration_date": "2025-02-11"
+        },
+        {
+            "id": "111115",
+            "type": "\u0e2d\u0e32\u0e2b\u0e32\u0e23",
+            "expiration_date": "2025-02-11"
+        },
+        {
+            "id": "111116",
+            "type": "\u0e2d\u0e32\u0e2b\u0e32\u0e23",
+            "expiration_date": "2025-02-13"
+        },
+        {
+            "id": "111117",
+            "type": "\u0e2d\u0e32\u0e2b\u0e32\u0e23",
+            "expiration_date": "2025-02-13"
+        },
+        {
+            "id": "111121",
+            "type": "\u0e2d\u0e34\u0e40\u0e25\u0e47\u0e01\u0e17\u0e23\u0e2d\u0e19\u0e34\u0e01\u0e2a\u0e4c",
+            "condition": "\u0e1b\u0e01\u0e15\u0e34"
+        },
+        {
+            "id": "111122",
+            "type": "\u0e2d\u0e34\u0e40\u0e25\u0e47\u0e01\u0e17\u0e23\u0e2d\u0e19\u0e34\u0e01\u0e2a\u0e4c",
+            "condition": "\u0e1b\u0e01\u0e15\u0e34"
+        },
+        {
+            "id": "111123",
+            "type": "\u0e2d\u0e34\u0e40\u0e25\u0e47\u0e01\u0e17\u0e23\u0e2d\u0e19\u0e34\u0e01\u0e2a\u0e4c",
+            "condition": "\u0e1b\u0e01\u0e15\u0e34"
+        },
+        {
+            "id": "111124",
+            "type": "\u0e2d\u0e34\u0e40\u0e25\u0e47\u0e01\u0e17\u0e23\u0e2d\u0e19\u0e34\u0e01\u0e2a\u0e4c",
+            "condition": "\u0e1b\u0e01\u0e15\u0e34"
+        },
+        {
+            "id": "111125",
+            "type": "\u0e2d\u0e34\u0e40\u0e25\u0e47\u0e01\u0e17\u0e23\u0e2d\u0e19\u0e34\u0e01\u0e2a\u0e4c",
+            "condition": "\u0e1b\u0e01\u0e15\u0e34"
+        },
+        {
+            "id": "111126",
+            "type": "\u0e2d\u0e34\u0e40\u0e25\u0e47\u0e01\u0e17\u0e23\u0e2d\u0e19\u0e34\u0e01\u0e2a\u0e4c",
+            "condition": "\u0e1b\u0e01\u0e15\u0e34"
+        },
+        {
+            "id": "111127",
+            "type": "\u0e2d\u0e34\u0e40\u0e25\u0e47\u0e01\u0e17\u0e23\u0e2d\u0e19\u0e34\u0e01\u0e2a\u0e4c",
+            "condition": "\u0e1b\u0e01\u0e15\u0e34"
+        },
+        {
+            "id": "111131",
+            "type": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e1c\u0e49\u0e32",
+            "condition": "\u0e1b\u0e01\u0e15\u0e34"
+        },
+        {
+            "id": "111132",
+            "type": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e1c\u0e49\u0e32",
+            "condition": "\u0e1b\u0e01\u0e15\u0e34"
+        },
+        {
+            "id": "111135",
+            "type": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e1c\u0e49\u0e32",
+            "condition": "\u0e15\u0e49\u0e2d\u0e07\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21"
+        },
+        {
+            "id": "111136",
+            "type": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e1c\u0e49\u0e32",
+            "condition": "\u0e15\u0e49\u0e2d\u0e07\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21"
+        },
+        {
+            "id": "111137",
+            "type": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e1c\u0e49\u0e32",
+            "condition": "\u0e15\u0e49\u0e2d\u0e07\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21"
+        },
+        {
+            "id": "111139",
+            "type": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e1c\u0e49\u0e32",
+            "condition": "\u0e1b\u0e01\u0e15\u0e34"
+        },
+        {
+            "id": "111140",
+            "type": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e1c\u0e49\u0e32",
+            "condition": "\u0e1b\u0e01\u0e15\u0e34"
+        }
+    ],
+    "rejected_products": [
+        {
+            "id": "111112",
+            "type": "\u0e2d\u0e32\u0e2b\u0e32\u0e23",
+            "expiration_date": "2025-02-07",
+            "rejected": true
+        },
+        {
+            "id": "111113",
+            "type": "\u0e2d\u0e32\u0e2b\u0e32\u0e23",
+            "expiration_date": "2025-02-06",
+            "rejected": true
+        },
+        {
+            "id": "111118",
+            "type": "\u0e2d\u0e32\u0e2b\u0e32\u0e23",
+            "expiration_date": "2025-02-01",
+            "rejected": true
+        },
+        {
+            "id": "111119",
+            "type": "\u0e2d\u0e32\u0e2b\u0e32\u0e23",
+            "expiration_date": "2025-02-02",
+            "rejected": true
+        },
+        {
+            "id": "111120",
+            "type": "\u0e2d\u0e32\u0e2b\u0e32\u0e23",
+            "expiration_date": "2025-02-02",
+            "rejected": true
+        },
+        {
+            "id": "111128",
+            "type": "\u0e2d\u0e34\u0e40\u0e25\u0e47\u0e01\u0e17\u0e23\u0e2d\u0e19\u0e34\u0e01\u0e2a\u0e4c",
+            "condition": "\u0e40\u0e2a\u0e35\u0e22\u0e2b\u0e32\u0e22",
+            "rejected": true
+        },
+        {
+            "id": "111129",
+            "type": "\u0e2d\u0e34\u0e40\u0e25\u0e47\u0e01\u0e17\u0e23\u0e2d\u0e19\u0e34\u0e01\u0e2a\u0e4c",
+            "condition": "\u0e15\u0e49\u0e2d\u0e07\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21",
+            "rejected": true
+        },
+        {
+            "id": "111130",
+            "type": "\u0e2d\u0e34\u0e40\u0e25\u0e47\u0e01\u0e17\u0e23\u0e2d\u0e19\u0e34\u0e01\u0e2a\u0e4c",
+            "condition": "\u0e15\u0e49\u0e2d\u0e07\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21",
+            "rejected": true
+        },
+        {
+            "id": "111133",
+            "type": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e1c\u0e49\u0e32",
+            "condition": "\u0e40\u0e2a\u0e35\u0e22\u0e2b\u0e32\u0e22",
+            "rejected": true
+        },
+        {
+            "id": "111134",
+            "type": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e1c\u0e49\u0e32",
+            "condition": "\u0e40\u0e2a\u0e35\u0e22\u0e2b\u0e32\u0e22",
+            "rejected": true
+        },
+        {
+            "id": "111138",
+            "type": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e1c\u0e49\u0e32",
+            "condition": "\u0e40\u0e2a\u0e35\u0e22\u0e2b\u0e32\u0e22",
+            "rejected": true
+        }
+    ]
+}
